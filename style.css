@@ -21,6 +21,10 @@ a:visited {
   color: hsl(0, 100%, 50%);
 }
 
+a:hover {
+  color: hsl(71.79deg 100% 50%);
+}
+
 a:active {
   font-weight: bold;
 }
