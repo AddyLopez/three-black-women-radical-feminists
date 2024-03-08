@@ -17,6 +17,10 @@ h1 {
   margin: 0;
 }
 
+h3 {
+  padding-top: 15px;
+}
+
 header.header-top {
   padding: 20px 8px;
 }
