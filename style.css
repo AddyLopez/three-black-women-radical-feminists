@@ -13,13 +13,14 @@ hr {
   margin: 40px 0;
 }
 
+a {
+  color: hsl(0, 100%, 50%);
+}
+
 a:visited {
   color: white;
 }
 
-a:hover {
-  color: hsl(0, 100%, 50%);
-}
 a:active {
   font-weight: bold;
 }
