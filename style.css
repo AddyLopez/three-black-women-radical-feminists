@@ -21,6 +21,11 @@ h3 {
   padding-top: 15px;
 }
 
+p,
+ul {
+  line-height: 1.2;
+}
+
 header.header-top {
   padding: 20px 8px;
 }
