@@ -87,6 +87,10 @@ a {
 a:visited {
   color: hsl(0, 100%, 50%);
 }
+.button-link:visited {
+  border: 2px solid hsl(0, 100%, 50%);
+  color: hsl(0, 100%, 50%);
+}
 a:hover {
   color: hsl(71.79deg 100% 50%);
 }
@@ -94,6 +98,7 @@ a:hover {
   border: 2px solid hsl(71.79deg 100% 50%);
   color: hsl(71.79deg 100% 50%);
 }
+
 a:active {
   font-weight: 700;
   transform: translate(2px, 2px);
