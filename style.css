@@ -67,7 +67,7 @@ a {
 }
 
 .button-link {
-  background-color: hsl(0 0% 10% / 1);
+  background-color: hsl(0 0% 15% / 1);
   border: 2px solid hsl(0, 100%, 50%);
   border-radius: 6px;
   color: hsl(0, 100%, 50%);
