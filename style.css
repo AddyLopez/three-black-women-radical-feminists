@@ -68,7 +68,7 @@ a {
 
 .button-link {
   background-color: hsl(0 0% 15% / 1);
-  border: 2px solid hsl(0, 100%, 56%);
+  border: 2px solid hsl(0, 100%, 64%);
   border-radius: 6px;
   color: hsl(0, 100%, 56%);
   display: inline-block;
@@ -85,11 +85,11 @@ a {
 }
 
 a:visited {
-  color: hsl(0, 100%, 56%);
+  color: hsl(0, 100%, 64%);
 }
 .button-link:visited {
-  border: 2px solid hsl(0, 100%, 56%);
-  color: hsl(0, 100%, 56%);
+  border: 2px solid hsl(0, 100%, 64%);
+  color: hsl(0, 100%, 64%);
 }
 a:hover {
   color: hsl(71.79deg 100% 50%);
