@@ -4,7 +4,7 @@
 
 ## Project Description & Background
 
-This simple responsive website is an example of what I can spontaneously build from scratch in an afternoon. I researched and curated the content independently that same day to present to my political study group, but since I loathe making PowerPoints, I coded a website for fun instead.
+This simple responsive website is an example of what I can spontaneously build from scratch in an afternoon. I researched and curated the content independently that same day to present to my political study group. I loathe making PowerPoints, so I coded a website for fun instead (to share my notes).
 
 It ended up being a good idea and worth the extra effort for a number of reasons! First, I didn't have to waste the group's time setting up a projector. Second, everyone was able to comfortably follow along to my presentation on their phone or laptop (their choice), which made my communication more effective. Further, giving team members the link to the website meant that they were empowered to explore my sources or replay any media I shared at their future convenience, thereby eliminating the need for them to fully digest the information on the spot. Finally, the website counteracts the ephemerality of the presentation and extends the value of my research beyond the team to anyone interested who has the link.
 
